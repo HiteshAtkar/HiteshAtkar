@@ -1,8 +1,5 @@
 ## Hi there, I'm Hitesh Atkar 👋
 
-![Profile views](https://img.shields.io/badge/Profile%20views-151,050-brightgreen)  
-![Follow](https://img.shields.io/badge/Follow-%40imashish2604-blue)  
-
 ## I'm a **Author, Data Scientist, AI Innovator, Generative AI Practitioner**  
 
 🔗 [Connect with me on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/feed/))  
