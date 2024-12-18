@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Hitesh Atkar 👋
 
-<!--
-**HiteshAtkar/HiteshAtkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://img.shields.io/badge/Profile%20views-151,050-brightgreen)  
+![Follow](https://img.shields.io/badge/Follow-%40imashish2604-blue)  
 
-Here are some ideas to get you started:
+## I'm a **Author, Data Scientist, AI Innovator, Generative AI Practitioner**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Connect with me on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/feed/))  
+
+---
+
+### 🚀 About Me
+
+🌟 I am in the final year of my **B.Tech** and practicing as a **Data Scientist**.  
+🌱 I’m currently exploring **Machine Learning**, **Deep Learning**, and **Cloud Computing** 😎.  
+📚 I’ve reviewed multiple technical resources and am always looking for more collaborations in the field.  
+🤝 I’m open to collaboration on **AI/ML**, **Cloud Computing**, and **MLOps** projects.  
+
+## 🎯 2025 Goals
+- Explore more research on **Generative AI**
+- Dive deeper into **Large Language Models (LLMs)**
+- Focus on **AI for creativity** and **AI-driven automation**
+
+##⚡ **Fun Fact:** I love to code and work on innovative projects.
