@@ -28,8 +28,11 @@
 
 ---
 
-### 💻 Socials
-![snake gif](https://github.com/HiteshAtkar/HiteshAtkar/blob/output/github-snake.svg)
+### 🥂 My Contributions
+<div align="center">
+    ![snake gif](https://github.com/HiteshAtkar/HiteshAtkar/blob/output/github-snake.svg)
+</div>
+
 
 ---
 
