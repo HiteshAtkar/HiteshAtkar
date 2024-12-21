@@ -11,16 +11,36 @@
 🤝 I’m open to collaboration on **AI/ML**, **Cloud Computing**, and **MLOps** projects.  
 
 #### 🎯 2025 Goals
-- Explore more research on **Generative AI**
-- Dive deeper into **Large Language Models (LLMs)**
-- Focus on **AI for creativity** and **AI-driven automation**
+- Explore more research on **Generative AI** and dive deeper into **Large Language Models (LLMs)**.
 
 ---
 
 ### 💻 Socials
 #### Connect with me on:
 
- [<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" alt="LinkedIn Logo" width="75" />](https://www.linkedin.com/in/hitesh-atkar-6734a3255/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png" alt="LinkedIn Logo" width="150" />](https://stackoverflow.com/users/28855892/hitesh-atkar) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="LinkedIn Logo" width="100" />](https://medium.com/@atkarhitesh) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LinkedIn Logo" width="110" />](https://leetcode.com/u/Hitesh_Atkar/)   &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="LinkedIn Logo" width="55" />](https://www.kaggle.com/hiteshatkar1) &nbsp;[<img src="https://w7.pngwing.com/pngs/676/1/png-transparent-x-icon-ex-twitter-tech-companies-social-media-thumbnail.png" alt="LinkedIn Logo" width="24" />](https://x.com/HiteshAtkar) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="LinkedIn Logo" width="24" />](https://www.instagram.com/limitless_sole/) 
+<div align="center">
+<a href="https://www.linkedin.com/in/hitesh-atkar-6734a3255/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/limitless_sole/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/HiteshAtkar" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/28855892" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.kaggle.com/hiteshatkar1" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://medium.com/@atkarhitesh" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 ---
 
 ### 💻 Tech Stack
@@ -36,9 +56,12 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=default&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  
+</div><br/>
 
+![](https://github-readme-stats.vercel.app/api?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
