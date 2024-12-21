@@ -56,6 +56,7 @@
 ---
 
 ### 📊 GitHub Stats
+[![](https://visitcount.itsvg.in/api?id=HiteshAtkar&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=default&hide_border=false" alt="GitHub Streak Stats" />
