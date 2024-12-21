@@ -30,9 +30,8 @@
 
 ### 🥂 My Contributions
 <div align="center">
-    ![snake gif](https://github.com/HiteshAtkar/HiteshAtkar/blob/output/github-snake.svg)
+    <img src="https://github.com/HiteshAtkar/HiteshAtkar/blob/output/github-snake.svg" alt="snake gif">
 </div>
-
 
 ---
 
