@@ -48,21 +48,23 @@
 
 ---
 
-### 🥂 My Contributions
-<div align="center">
-    <img src="https://github.com/HiteshAtkar/HiteshAtkar/blob/output/github-snake.svg" alt="snake gif">
-</div>
 
----
 
 ### 📊 GitHub Stats
-[![](https://visitcount.itsvg.in/api?id=HiteshAtkar&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=default&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=default&hide_border=false" 
+    alt="GitHub Streak Stats" 
+    style="width: 400px; height: auto;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages" 
+    style="width: 336px; height: auto;" 
+  />
+</div>
   
 </div><br/>
-
-![](https://github-readme-stats.vercel.app/api?username=HiteshAtkar&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
