@@ -10,7 +10,7 @@
 📚 I’ve reviewed multiple technical resources and am always looking for more collaborations in the field.  
 🤝 I’m open to collaboration on **AI/ML**, **Cloud Computing**, and **MLOps** projects.  
 
-#### 🎯 2025 Goals
+#### 🎯 2026 Goals
 - Explore more research on **Generative AI** and dive deeper into **Large Language Models (LLMs)**.
 
 ---
