@@ -11,16 +11,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hiteshatkar.online-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hiteshatkar.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-atkar-6734a3255/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atkarhitesh@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=HiteshAtkar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 <sub>Pune, India &nbsp;·&nbsp; Generative AI · Agentic AI · LLMs &nbsp;·&nbsp; Open to collaborate</sub>
-
 </div>
 
 <br/>
 
 ## About Me
-
 I'm a **Generative AI Engineer** who takes LLM products from idea to production: multi-agent platforms, RAG pipelines, hybrid search engines and document-intelligence systems that run for real clients.
 
 <table>
@@ -139,7 +136,6 @@ Evaluation, guardrails, tracing with LangSmith, CI/CD and cloud deployment on AW
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HiteshAtkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshAtkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshAtkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -154,7 +150,6 @@ Evaluation, guardrails, tracing with LangSmith, CI/CD and cloud deployment on AW
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@atkarhitesh)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28855892)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HiteshAtkar)
-
 <br/>
 
 <sub>If you like what you see, drop a star on my repos. Open to GenAI, Agentic AI and LLM collaborations.</sub>
